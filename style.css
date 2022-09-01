@@ -7,3 +7,31 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.cont {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #effffa;
+}
+
+.slider {
+    width: 300px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: #bfdbd2;
+    position: relative;
+}
+
+.fill {
+    width: 200px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: #6db37d;
+    position: absolute;
+    inset: 0;
+}
