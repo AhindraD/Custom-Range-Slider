@@ -1,4 +1,5 @@
 const targetSlider = document.querySelector(".slider");
+const targetCircle = document.querySelector(".circle");
 
 targetSlider.addEventListener("mousemove", (e) => {
     let xPos = e.clientX - targetSlider.offsetLeft;
