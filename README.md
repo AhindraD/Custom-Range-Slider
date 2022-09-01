@@ -1,4 +1,5 @@
 # Custom Range Slider
+## https://custom-slide.netlify.app/
 Create a custom slider using HTML/CSS and JavaScript as shown in the image.
 
 ![](https://i.imgur.com/8VceYJYl.png)
